@@ -1,7 +1,7 @@
 name: Gold Crest Holidays
 favicon: null
-layout_spectrum: 0.17687660013325512
-typography_spectrum: 0.1959046022966504
+layout_spectrum: 0.98427
+typography_spectrum: 0.63559
 title: 'Short Breaks by Coach, Air and River Cruises'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#fef625'
+    - '#747cbb'
+    - '#1d2a8f'
+    - '#e75a2a'
   brandStrength: 0.8929112607147545
   lightness: 0.542926927562803
   saturation: 0.44105942687019706
